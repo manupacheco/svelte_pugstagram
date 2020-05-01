@@ -66,9 +66,36 @@
     <div class="Stories-items">
       <div class="Stories-item">
         <div class="Stories-item-box">
-          <img src="https://arepa.s3.amazonaws.com/oscar.png" alt="user">
+          <img
+            src="https://static.platzi.com/media/avatars/avatars/manupacheco_34a1f7a3-eb09-4054-8741-f3c31e1358aa.png"
+            alt="user" />
         </div>
-        <h2>emeeneu <span>10 horas antes</span></h2>
+        <h2>
+          emeeneu
+          <span>10 horas antes</span>
+        </h2>
+      </div>
+      <div class="Stories-item">
+        <div class="Stories-item-box">
+          <img
+            src="https://static.platzi.com/media/avatars/avatars/manupacheco_34a1f7a3-eb09-4054-8741-f3c31e1358aa.png"
+            alt="user" />
+        </div>
+        <h2>
+          emeeneu
+          <span>10 horas antes</span>
+        </h2>
+      </div>
+      <div class="Stories-item">
+        <div class="Stories-item-box">
+          <img
+            src="https://static.platzi.com/media/avatars/avatars/manupacheco_34a1f7a3-eb09-4054-8741-f3c31e1358aa.png"
+            alt="user" />
+        </div>
+        <h2>
+          emeeneu
+          <span>10 horas antes</span>
+        </h2>
       </div>
     </div>
   </div>
